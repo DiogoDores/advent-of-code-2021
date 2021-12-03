@@ -1,6 +1,13 @@
 {
     "files.associations": {
         "string": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
     }
 }
