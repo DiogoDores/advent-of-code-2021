@@ -94,7 +94,6 @@ vector<string> getInput(string filePath){
 
 int main()
 {
-
    vector<string> input = getInput("../Day03/input.txt");
    cout << "Part 1: " << partOne(input) << endl;
    cout << "Part 2: " << getRating(input, true, 0) * getRating(input, false, 0) << endl;
