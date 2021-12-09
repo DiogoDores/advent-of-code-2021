@@ -19,6 +19,8 @@
         "regex": "cpp",
         "valarray": "cpp",
         "fstream": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp"
     }
 }
